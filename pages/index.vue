@@ -39,19 +39,15 @@ const handleLogout = () => {
         @submit.prevent="handleLogin"
         class="flex flex-col gap-5 w-full max-w-80"
       >
-        <input
-          type="email"
+        <UiInputsOutlineInput
           v-model="username"
           placeholder="Username"
-          required
-          class="border px-3 h-11 rounded-md"
+          type="email"
         />
-        <input
-          type="password"
+        <UiInputsOutlineInput
           v-model="password"
           placeholder="Password"
-          required
-          class="border px-3 h-11 rounded-md"
+          type="password"
         />
         <UiButtonsPrimaryButton>Login</UiButtonsPrimaryButton>
       </form>
