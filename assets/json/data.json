@@ -1,0 +1,83 @@
+{
+  "name": "Artur Petrusanco",
+  "position": "Senior Front-end Developer",
+  "description": "I’m a Senior Front-end Developer with 15 years of experience. Over my career, I’ve developed more than 100 Shopify websites (including headless implementations) and over 300 WordPress themes.",
+  "employers": [
+    {
+      "_uid": "kei-1",
+      "name": "Senior Front-end Developer / Front-end Team Lead at Route One Group, Chisinau",
+      "period": "June 2023 — Present",
+      "description": "I led the development of the company’s websites and was subsequently promoted to Team Lead, where I oversaw and contributed to two additional key projects. In this role, I made strategic decisions that shaped the success of these initiatives.",
+      "skills": "Next.js, Nuxt.js, TypeScript, Storyblok, styled-components, Tailwind CSS, Figma, Postman, Swagger"
+    },
+    {
+      "_uid": "kei-2",
+      "name": "Senior Front-end Developer at Eya.global",
+      "period": "April 2020 — July 2023",
+      "description": "Successfully transitioned a client from WordPress to Next.js and Contentful, improving site speed by 40% and enhancing SEO performance.",
+      "skills": "Next.js, Vercel, TypeScript, styled-components"
+    },
+    {
+      "_uid": "kei-3",
+      "name": "Front-end Developer / Senior Front-end Developer at Cyberworkshop",
+      "period": "March 2016 — March 2023",
+      "description": "I began as a theme developer for Shopify. Over time, my experience and expertise grew, leading me to a senior position.",
+      "skills": "JavaScript, jQuery, Next.js, React Native, Shopify"
+    },
+    {
+      "_uid": "kei-3",
+      "name": "Front-end Developer / Senior Front-end Developer at Fuselabcreative",
+      "period": "February 2012 — October 2022",
+      "description": "I developed complex client websites featuring extensive animations and worked on a SaaS project that spanned over a year.",
+      "skills": "Next.js, JavaScript, jQuery, WordPress, Shopify"
+    },
+    {
+      "_uid": "kei-4",
+      "name": "Front-end Developer / Senior Front-end Developer at Heartbeat.ua",
+      "period": "May 2011 — July 2022",
+      "description": "The designers at Heartbeat were the most skilled I’ve had the pleasure of working with, and their expertise helped me master pixel-perfect design.",
+      "skills": "Next.js, Nuxt.js, Vercel, jQuery, WordPress"
+    },
+    {
+      "_uid": "kei-5",
+      "name": "Front-end Developer at Pixel MD",
+      "period": "September 2009 — January 2011",
+      "skills": "HTML/CSS/jQuery/JS"
+    }
+  ],
+  "education": [
+    {
+      "_uid": "education-1",
+      "name": "UTM Engineering of Heat and Gas Supply, Ventilation Systems at Technical University of Moldova, Chisinau",
+      "period": "September 2005 — July 2010"
+    }
+  ],
+  "city": "Chisinau",
+  "country": "Moldova",
+  "phone": "+37379370076",
+  "email": "artur.petrusanco@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/artur-petrusanco/",
+  "skills": [
+    { "skill": "HTML5", "experience": "10 years" },
+    { "skill": "CSS/SASS/SCSS", "experience": "10 years" },
+    { "skill": "JavaScript", "experience": "15 years" },
+    { "skill": "jQuery", "experience": "12 years" },
+    { "skill": "Shopify", "experience": "8 years" },
+    { "skill": "WordPress", "experience": "13 years" },
+    { "skill": "REST API", "experience": "10 years" },
+    { "skill": "React.js", "experience": "7 years" },
+    { "skill": "Next.js", "experience": "5 years" },
+    { "skill": "TypeScript", "experience": "5 years" },
+    { "skill": "Vue.js", "experience": "7 years" },
+    { "skill": "Nuxt.js", "experience": "6 years" },
+    { "skill": "GraphQL", "experience": "6 years" },
+    { "skill": "Storyblok/Contentful", "experience": "4 years" },
+    { "skill": "Git, GUI clients (GitHub, GitLab, Bitbucket)", "experience": "10 years" },
+    { "skill": "JIRA Management", "experience": "6 years" },
+    { "skill": "UI/UX design applications (PhotoShop, Sketch, Adobe XD, Zeplin, Figma)" },
+    { "skill": "Communication Skills" },
+    { "skill": "Ability to Work in a Team" },
+    { "skill": "Leadership Skills" }
+  ]
+  
+}
