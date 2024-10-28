@@ -12,7 +12,8 @@
   "dependencies": {
     "nuxt": "^3.13.2",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vue-tsc": "^2.1.8"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
